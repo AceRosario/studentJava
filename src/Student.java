@@ -33,4 +33,12 @@ public class Student {
 
         return gradeString;
     }
+
+    public int getId() {
+        return ID;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
